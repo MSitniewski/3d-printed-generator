@@ -62,10 +62,7 @@ Work is ongoing to establish efficiency under different operating regimes
 
 ## 📁 Repository Contents (planned)
 
-- `/docs` – technical notes and observations
 - `/photos` – build and prototype images
-- `/tests` – measurement data and results
-- `/cad` – (planned / restricted access)
 - `/stl` – (not included at this stage)
 
 ---
@@ -80,3 +77,11 @@ Designs are still under active development and may change significantly between 
 ## 📌 Author
 
 Independent engineering project focused on mechanical design, prototyping, and energy systems experimentation.
+
+---
+
+## Video demonstration
+
+Short demonstration of the generator.
+
+[YouTube Short](https://www.youtube.com/shorts/bMeE2kEtJIk)
